@@ -1,2 +1,2 @@
-#this is a mere test
+#this is a merely a test
 
