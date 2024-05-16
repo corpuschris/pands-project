@@ -2,4 +2,4 @@
 
 # Author: Christiano ferreira
 
-# Programming and Scripting - Iris
+# Programming and Scripting - Fischer's Iris
