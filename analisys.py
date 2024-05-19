@@ -5,7 +5,7 @@
 # ***
 # ### Programming and Scripting - Fischer's Iris.
 # 
-# This project focuses on accessing and analyzing the [Iris](https://github.com/corpuschris/pands-project/blob/master/iris.csv) dataset, a classic dataset frequently used in data science and machine learning.[1] By working with this dataset, we aim to showcase a range of skills, including data manipulation, statistical analysis, visualization, and programming techniques using [Python](https://www.python.org/) within the Jupyter Notebook environment.[2]
+# This project focuses on accessing and analyzing the [Iris](https://github.com/corpuschris/pands-project/blob/master/iris.csv) dataset, a classic dataset frequently used in data science and machine learning. By working with this dataset, we aim to showcase a range of skills, including data manipulation, statistical analysis, visualization, and programming techniques using [Python](https://www.python.org/) within the Jupyter Notebook environment.[2]
 # 
 # The Iris flower dataset is a multivariate dataset introduced by the British statistician and biologist Ronald Fisher in his 1936 paper "The use of multiple measurements in taxonomic problems." It is also known as Anderson's Iris dataset because Edgar Anderson collected the data to measure the morphological variation of Iris flowers from three related species:
 # 
