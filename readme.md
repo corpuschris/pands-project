@@ -2,7 +2,8 @@
 ***
 ## Programming and Scripting - Fisher’s Iris Dataset
 ***
-This project focuses on accessing and analyzing the [Iris](https://github.com/corpuschris/pands-project/blob/master/iris.csv) dataset, a classic dataset frequently used in data science and machine learning.[1] By working with this dataset, we aim to showcase a range of skills, including data manipulation, statistical analysis, visualization, and programming techniques using [Python](https://www.python.org/) within the Jupyter Notebook environment.[2]
+This project focuses on accessing and analyzing the [Iris](https://github.com/corpuschris/pands-project/blob/master/iris.csv) dataset, a classic dataset frequently used in data science and machine learning. By working with this dataset, we aim to showcase a range of skills, including data manipulation, statistical analysis, visualization, and programming techniques using [Python](https://www.python.org/) within the Jupyter Notebook environment.[2]
+
 
 ### About this project:
 ***
@@ -11,7 +12,7 @@ This project involves the [Iris](https://github.com/corpuschris/pands-project/bl
 
 ![Iris](https://github.com/corpuschris/pands-project/assets/159485788/e79c61f7-7b01-4dec-aa58-662734067af9)
 
-[Fischer's Iris Data](https://archive.ics.uci.edu/dataset/53/iris) UCI Machine Learning Repository: Iris Data Set. [3]
+[Fischer's Iris Data](https://archive.ics.uci.edu/dataset/53/iris) UCI Machine Learning Repository: Iris Data Set.
 
 ### Getting Started:
 ***
@@ -61,4 +62,4 @@ This dataset is licensed under a [Creative Commons Attribution 4.0 International
 
 #### Author: Christiano Ferreira
 
-* **Christiano Ferreira** - I am currently studying at [ATU](https://www.atu.ie/) - Atlantic Technological University in the course Higher Diploma in Computing in Data Analysis. To contact me for more information, please reach out on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/christiano-ferreira/).
+* **Christiano Ferreira** - I am currently studying at [ATU](https://www.atu.ie/) - Atlantic Technological University in the course Higher Diploma in Computing in Data Analysis. To contact me for more information, please reach out on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/corpuschris/).
