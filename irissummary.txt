@@ -27,7 +27,7 @@ This is the Iris dataset.
 
   _______________________________
  |                               |
- |   Image -  Iris               |
+ |   Image -  3 types of Iris    |
  |_______________________________|
 
 
