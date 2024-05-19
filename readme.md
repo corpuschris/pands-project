@@ -8,11 +8,11 @@ This project focuses on accessing and analyzing the [Iris](https://github.com/co
 ### About this project:
 ***
 
-This project involves the [Iris](https://github.com/corpuschris/pands-project/blob/master/iris.csv) dataset.
+This is the [Iris](https://github.com/corpuschris/pands-project/blob/master/iris.csv) dataset.
 
-![Iris](https://github.com/corpuschris/pands-project/assets/159485788/e79c61f7-7b01-4dec-aa58-662734067af9)
+![Iris](https://miro.medium.com/v2/resize:fit:720/1*YYiQed4kj_EZ2qfg_imDWA.png)
 
-[Fischer's Iris Data](https://archive.ics.uci.edu/dataset/53/iris) UCI Machine Learning Repository: Iris Data Set.
+For more information, see the [Fisher's Iris Data](https://archive.ics.uci.edu/dataset/53/iris) at the UCI Machine Learning Repository.
 
 ### Getting Started:
 ***
