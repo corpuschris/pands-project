@@ -1,65 +1,42 @@
+
 # Higher Diploma in Science in Computing - Data Analytics
-***
+
 ## Programming and Scripting - Fisher’s Iris Dataset
-***
-This project focuses on accessing and analyzing the [Iris](https://github.com/corpuschris/pands-project/blob/master/iris.csv) dataset, a classic dataset frequently used in data science and machine learning. By working with this dataset, we aim to showcase a range of skills, including data manipulation, statistical analysis, visualization, and programming techniques using [Python](https://www.python.org/) within the Jupyter Notebook environment.[2]
 
-
-### About this project:
-***
-
-This is the [Iris](https://github.com/corpuschris/pands-project/blob/master/iris.csv) dataset.
+This project revolves around exploring and analyzing the [Iris dataset](https://github.com/corpuschris/pands-project/blob/master/iris.csv), a quintessential dataset often used in data science and machine learning. Through this endeavor, we aim to demonstrate proficiency in various facets of data analysis, including data manipulation, statistical analysis, visualization, and programming techniques using [Python](https://www.python.org/) within the Jupyter Notebook environment.
 
 ![Iris](https://miro.medium.com/v2/resize:fit:720/1*YYiQed4kj_EZ2qfg_imDWA.png)
 
-For more information, see the [Fisher's Iris Data](https://archive.ics.uci.edu/dataset/53/iris) at the UCI Machine Learning Repository.
+### About this Project
 
-### Getting Started:
-***
+The Iris dataset serves as a cornerstone in the field of data science and machine learning. For a deeper understanding of Fisher's Iris Data, please refer to the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/53/iris).
 
-I used [openincolab](https://openincolab.com/) to generate the following clickable link. It opens the [`analysis.ipynb`](https://github.com/corpuschris/pands-project/blob/master/analysis.ipynb) Jupyter Notebook in [Google Colab](https://colab.research.google.com/)
+### Getting Started
 
-<a target="_blank" href="https://colab.research.google.com/github/corpuschris/pands-project/blob/master/analysis.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+To delve into the analysis, click the button below to launch the interactive Jupyter Notebook in [Google Colab](https://colab.research.google.com/):
 
-***
-### License:
-***
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corpuschris/pands-project/blob/master/analysis.ipynb)
 
-The Iris dataset is a widely used and publicly available dataset that is considered to be in the public domain. It was originally collected and introduced by the British statistician and biologist Ronald Fisher in 1936.
+### License
 
-* **UCI Machine Learning Repository:**
-  The Iris dataset is hosted on the UCI Machine Learning Repository, a popular resource for machine learning datasets.
-  Link: [UCI Machine Learning Repository - Iris Dataset](https://archive.ics.uci.edu/dataset/53/iris)
-* **scikit-learn:**
-  The Iris dataset is included as one of the built-in datasets in the scikit-learn library, a popular machine learning library for Python.
-  You can load the Iris dataset directly from scikit-learn using the `load_iris()` function.
-  Link: [scikit-learn - Iris Dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html#iris-dataset)
-* **Kaggle:**
-  The Iris dataset is available on Kaggle, a platform for data science competitions and datasets.
-  Link: [Kaggle - Iris Dataset](https://www.kaggle.com/uciml/iris)
-* **GitHub:**
-  Many repositories on GitHub contain the Iris dataset, often as part of educational materials or example code.
-  You can search GitHub for repositories containing the Iris dataset using keywords like "Iris dataset".
+The Iris dataset is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) (CC BY 4.0) license.
 
-This dataset is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) (CC BY 4.0) license.
-***
+For additional resources and information regarding the Iris dataset, explore the following links:
 
-### References:
-***
-[1] About READMEs. Available in: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes. [Accessed 06 May 2024].
+- [UCI Machine Learning Repository - Iris Dataset](https://archive.ics.uci.edu/dataset/53/iris)
+- [scikit-learn - Iris Dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html#iris-dataset)
+- [Kaggle - Iris Dataset](https://www.kaggle.com/uciml/iris)
 
-[2] Fischer's Iris dataset. Available in: https://archive.ics.uci.edu/dataset/53/iris. [Accessed 07 May 2024].
+### References
 
-[3] The iris data set: In search of the source of virginica. Available in: https://academic.oup.com/jrssig/article/18/6/26/7038520?login=false. [Accessed 07 May 2024].
+- [GitHub README Guide](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+- [Fisher's Iris dataset](https://archive.ics.uci.edu/dataset/53/iris)
+- [The iris data set: In search of the source of virginica](https://academic.oup.com/jrssig/article/18/6/26/7038520?login=false)
+- [Kaggle](https://www.kaggle.com/)
+- [Scikit-learn](https://scikit-learn.org/stable/)
 
-[4] Kaggle: https://www.kaggle.com/ [Accessed 07 May 2024].
-
-[5] Scikit-learn: https://scikit-learn.org/stable/ [Accessed 07 May 2024].
-
-***
+---
 
 #### Author: Christiano Ferreira
 
-* **Christiano Ferreira** - I am currently studying at [ATU](https://www.atu.ie/) - Atlantic Technological University in the course Higher Diploma in Computing in Data Analysis. To contact me for more information, please reach out on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/corpuschris/).
+Currently pursuing a Higher Diploma in Computing in Data Analysis at [ATU](https://www.atu.ie/) - Atlantic Technological University. For further inquiries or collaborations, feel free to connect via [GitHub](https://github.com/corpuschris/) or [LinkedIn](https://www.linkedin.com/in/corpuschris/).
