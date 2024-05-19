@@ -18,7 +18,7 @@ This project involves the [Iris](https://github.com/corpuschris/pands-project/bl
 
 I used [openincolab](https://openincolab.com/) to generate the following clickable link. It opens the [`analysis.ipynb`](https://github.com/corpuschris/pands-project/blob/master/analysis.ipynb) Jupyter Notebook in [Google Colab](https://colab.research.google.com/)
 
-<a target="_blank" href="https://colab.research.google.com/github/CarlosRigueti/pands-project">
+<a target="_blank" href="https://colab.research.google.com/github/corpuschris/pands-project/blob/master/analysis.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
