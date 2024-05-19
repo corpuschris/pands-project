@@ -42,7 +42,7 @@ print(df)
 # 149              5.9          3.0           5.1          1.8  virginica
 # -----------------------------------------------------------------------------------------------
 # Inspect Data:
-# Display the first 5 rows of the dataset.
+# Display the top 5 rows of the dataset.
 fiverows = df.head()
 print(fiverows)
 # -----------------------------------------------------------------------------------------------
