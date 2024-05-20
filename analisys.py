@@ -5,7 +5,7 @@
 # ***
 # ### Programming and Scripting - Fischer's Iris.
 # 
-# This project focuses on accessing and analyzing the [Iris](https://github.com/corpuschris/pands-project/blob/master/iris.csv) dataset, a classic dataset frequently used in data science and machine learning. By working with this dataset, we aim to showcase a range of skills, including data manipulation, statistical analysis, visualization, and programming techniques using [Python](https://www.python.org/) within the Jupyter Notebook environment.[2]
+# This project focuses on accessing and analyzing the [Iris](https://github.com/corpuschris/pands-project/blob/master/iris.csv) dataset, a classic dataset frequently used in data science and machine learning. By working with this dataset, we aim to showcase a range of skills, including data manipulation, statistical analysis, visualization, and programming techniques using [Python](https://www.python.org/) within the Jupyter Notebook environment.
 # 
 # The Iris flower dataset is a multivariate dataset introduced by the British statistician and biologist Ronald Fisher in his 1936 paper "The use of multiple measurements in taxonomic problems." It is also known as Anderson's Iris dataset because Edgar Anderson collected the data to measure the morphological variation of Iris flowers from three related species:
 # 
@@ -44,7 +44,7 @@ import pandas as pd
 # Data visualization library.
 import seaborn as sns
 
-# Plotting.[5]
+# Plotting.
 import matplotlib.pyplot as plt
 
 # Numerical arrays ad random numbers.
@@ -90,7 +90,7 @@ df.isnull ().sum ()
 df.describe ()
 
 # %%
-# Compute the Pearson correlation.[14]
+# Compute the Pearson correlation.
 df.corr(method='pearson', numeric_only=True)
 
 # %%
