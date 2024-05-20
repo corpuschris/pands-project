@@ -78,7 +78,7 @@ df.head ()
 df.tail ()
 
 # %%
-# Informations of the dataset.
+# Information of the dataset.
 df.info ()
 
 # %%
