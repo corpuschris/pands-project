@@ -137,7 +137,7 @@ df.tail ()
 
 #-------------------------------------------------------------------------------------------
 
-# INFORMATIONS OF THE DATASET: 
+# INFORMATION OF THE DATASET: 
 
 #-------------------------------------------------------------------------------------------
 
@@ -181,7 +181,7 @@ df.isnull ().sum ()
 
 #-------------------------------------------------------------------------------------------
 
-#  DESCRIBE THE DATA SET: 
+#  DESCRIBE THE DATASET: 
 
 #-------------------------------------------------------------------------------------------
 
@@ -331,15 +331,15 @@ It utilizes visual elements like charts, graphs, and maps to explore, analyze, a
 
 #-------------------------------------------------------------------------------------------
 
-# plt.bar - Bar Chart.
+# Bar Chart
 
 Fig. 01 - # Displaying the bar chart
 
 #-------------------------------------------------------------------------------------------
 
-# plt.figure - Correlation
+# Correlation
 
-Fig. 02 - "Correlation between Sepal Length and Width"
+Fig. 02 - Correlation between Sepal Length and Width
 
 #-------------------------------------------------------------------------------------------
 
@@ -373,7 +373,7 @@ Fig. 10 - Heatmap of Correlations by Species
 
 #-------------------------------------------------------------------------------------------
 
-# Pair plot to illustrate relationships between variables.
+# Pair plot to illustrate relationships between variables
 
 Fig. 11 - Relationships among variables
 
@@ -382,3 +382,4 @@ Fig. 11 - Relationships among variables
 End
 
 Last update on 20/05/2024.
+

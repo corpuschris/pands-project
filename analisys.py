@@ -86,7 +86,7 @@ df.info ()
 df.isnull ().sum ()
 
 # %%
-# Descibe the data set.
+# Descibe the dataset.
 df.describe ()
 
 # %%

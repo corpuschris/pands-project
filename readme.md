@@ -3,7 +3,7 @@
 
 ## Programming and Scripting - Fisher’s Iris Dataset
 
-This project focuses on exploring and analyzing the [Iris dataset](https://github.com/corpuschris/pands-project/blob/master/iris.csv), a pivotal dataset in data science and machine learning. Our objective is to demonstrate skills in data manipulation, statistical analysis, visualization, and programming using [Python](https://www.python.org/) within the Jupyter Notebook environment.
+This project focuses on exploring and analyzing the [Iris dataset](https://github.com/corpuschris/pands-project/blob/master/iris.csv), a pivotal dataset in data science and machine learning. My objective is to demonstrate skills in data manipulation, statistical analysis, visualization, and programming using [Python](https://www.python.org/) within the Jupyter Notebook environment.
 
 ---
 
